@@ -1,1 +1,1 @@
-# Sorting-Techniques
+# Sorting Techniques
